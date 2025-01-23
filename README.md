@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hjcwbelhcbwelchbwcbwhbwebcwew
+I'm a developer who is currently a student at the University of Greenwich in London, UK. Previously graduated at the University of Milan, I've been in the computing and development fields ever since high school, where I studied in a technical institute. My main goal when I develop products is building something that the final user can enjoy and sometimes have fun with, this is because I believe IT can improve many different fields of our daily lives. I mostly enjoy frontend and mobile development, but I'm open to try some other types of application such as Java backend or databases from time to time. Still eager to learn.
